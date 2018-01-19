@@ -21,6 +21,6 @@
 
 
 
-//atom packages :
-//racer has bugs , so i had to delete this plugin
+//atom packages :<br/>
+//racer has bugs , so i had to delete this plugin <br/>
 language-rust, linter-rust, <s>racer</s>
