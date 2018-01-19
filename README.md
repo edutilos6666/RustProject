@@ -15,11 +15,12 @@
  //compile .rs file into executable file
  rustc Example1.rs -A warnings
  //now run ./Example1 file
-./Example1 
+./Example1
 </pre>
 
 
 
 
 //atom packages :
-language-rust, linter-rust, racer
+//racer has bugs , so i had to delete this plugin
+language-rust, linter-rust, <s>racer</s>
